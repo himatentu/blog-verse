@@ -1,4 +1,5 @@
 console.log("hello ,Hima")
+const a=10//it is constant ...cant change after declared
 let name="Hima";
 console.log(name)
 let n=61;
