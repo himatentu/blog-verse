@@ -18,3 +18,6 @@ const square=(x)=>x*x
 console.log(square(5))
 const subtract=(x,y)=>x-y
 console.log(subtract(15,10))
+
+const div=(x,y)=>x/y
+console.log(div(25,5))
